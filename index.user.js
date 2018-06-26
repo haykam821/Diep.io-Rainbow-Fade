@@ -1,3 +1,13 @@
+// ==UserScript==
+// @name         Diep.io Rainbow Fade
+// @namespace    https://github.com/haykam821/Diep.io-Rainbow-Fade
+// @version      1.0.0
+// @description  Allows you to have a tank that fades through a rainbow.
+// @author       haykam821
+// @match        http*://diep.io/
+// @grant        none
+// ==/UserScript==
+
 (() => {
     const script = document.createElement("script");
     script.src = "https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.7/chroma.min.js";
