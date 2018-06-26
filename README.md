@@ -6,6 +6,10 @@ Allows you to have a tank that fades through a rainbow.
 
 This is a [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension, so if you have that installed, installation of this script should be as easy as [clicking here](https://github.com/haykam821/Diep.io-Rainbow-Fade/raw/master/index.user.js) and clicking the Install button.
 
+## Example
+
+A (bad) demonstration of this script is available on [YouTube](https://www.youtube.com/watch?v=JlUaluBR6sA).
+
 ## Restrictions
 
 As of right now, there are two hardcoded restrictions:
