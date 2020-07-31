@@ -1,0 +1,24 @@
+{
+	"name": "diep.io-rainbow-fade",
+	"description": "Allows you to have a tank that fades through a rainbow.",
+	"version": "1.0.0",
+	"main": "index.user.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/haykam821/Diep.io-Rainbow-Fade.git"
+	},
+	"keywords": [
+		"diepio",
+		"userscript",
+		"rainbow"
+	],
+	"author": "haykam821",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/haykam821/Diep.io-Rainbow-Fade/issues"
+	},
+	"homepage": "https://github.com/haykam821/Diep.io-Rainbow-Fade#readme"
+}
