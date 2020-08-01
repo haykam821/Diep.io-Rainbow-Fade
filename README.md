@@ -1,5 +1,7 @@
 # [Diep.io](http://diep.io/) Rainbow Fade
 
+[![Travis (.com)](https://img.shields.io/travis/com/haykam821/Diep.io-Rainbow-Fade.svg?style=popout)](https://travis-ci.com/haykam821/Diep.io-Rainbow-Fade)
+
 Allows you to have a tank that fades through a rainbow.
 
 ## Usage
