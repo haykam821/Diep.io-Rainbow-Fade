@@ -24,7 +24,7 @@
 				index = 0;
 			}
 
-			input.execute(`net_replace_color 2 ${"0x" + scale[index].substr(1, Infinity)}`);
+			input.execute(`net_replace_color 2 ${"0x" + scale[index].slice(1)}`);
 		});
 	});
 })();
