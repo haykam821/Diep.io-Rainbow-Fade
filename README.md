@@ -23,8 +23,10 @@ Both of these restrictions can be overcome by directly editing the script, but i
 
 ## License
 
-This project is licensed under the MIT license (see the `LICENSE` file), and in addition, it is required to credit me if using this in a video on a video sharing platform such as YouTube or Vimeo via the video description box. Here is a suggestion for how to credit me:
+This project is licensed under the MIT license (see the `LICENSE` file).
+
+Although not required, I would prefer it if you linked back to this repository when sharing content that uses this script. Here is a suggestion for how to credit me:
 
     Rainbow Fade script by haykam821: https://github.com/haykam821/Diep.io-Rainbow-Fade/
 
-However, anything that has my username and a link back to this GitHub repository is acceptable as credit.
+Generally, you should include my username and a link back to this repository.
