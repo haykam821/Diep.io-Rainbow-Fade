@@ -1,6 +1,6 @@
 # [Diep.io](http://diep.io/) Rainbow Fade
 
-[![Travis (.com)](https://img.shields.io/travis/com/haykam821/Diep.io-Rainbow-Fade.svg?style=popout)](https://travis-ci.com/haykam821/Diep.io-Rainbow-Fade)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/haykam821/Diep.io-Rainbow-Fade/Lint)](https://github.com/haykam821/Diep.io-Rainbow-Fade/actions/workflows/lint.yml)
 
 Allows you to have a tank that fades through a rainbow.
 
